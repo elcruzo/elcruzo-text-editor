@@ -9,7 +9,9 @@ Welcome to this repository containing the source code for a text editor I built 
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Contributions](#contributions)
+- [Acknowledgments](#acknowledgments)
 - [License](#license)
 
 ## Introduction
@@ -91,10 +93,6 @@ Once you've launched the text editor, you can use the following features:
 ## Contributions
 
 Contributions to this project are welcome! If you have ideas for improvements or want to report issues, please create a GitHub issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
