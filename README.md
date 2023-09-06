@@ -27,7 +27,7 @@ ElCruzo Notepad Clone is a simple text editor built using PyQt5 in Python. This 
 
 ## Dependencies
 
-To run this ElCruzo Notepad Clone, you need:
+To run this Notepad Clone, you need:
 
 - Python 3.x
 - The `PyQt5` library, which can be installed using pip:
