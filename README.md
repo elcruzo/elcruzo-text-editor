@@ -41,13 +41,13 @@ To run this Notepad Clone, you need:
 1. Clone or download this repository to your local machine:
 
    ```bash
-   git clone https://github.com/elcruzo/my-text-editor.git
+   git clone https://github.com/elcruzo/elcruzo-text-editor.git
    ```
    
 2. Navigate to the project directory:
 
    ```bash
-   cd my-text-editor
+   cd elcruzo-text-editor
    ```
    
 3. Ensure you have Python 3.x installed. You can check by running:
